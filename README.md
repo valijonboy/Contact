@@ -30,7 +30,6 @@ The project is structured into the following modules:
 - **app**: The main module that contains the Jetpack Compose UI, ViewModels, and navigation logic.
 - **data**: The data layer module responsible for providing data to the app, including data sources, repositories, and data models.
 - **domain**: The domain layer module that holds the business logic and use cases.
-- **common**: A shared module containing common utilities and extension functions utilized across the project.
 
 ## Installation
 
